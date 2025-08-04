@@ -3,7 +3,7 @@
   "description": "Javascript WhatsApp bot made by Hashiya coder",
   "logo": "https://files.catbox.moe/sn20tl.jpg",
   "keywords": ["HASHAN-MD"],
-  "success_url": "/",
+  "success_url": "7Bck2BTD#Qp_fperyQqydGoEv8Ak0fgHyqoAaz02eD5vIrcXiQn4",
 
     "stack": "container",
   "env": {
@@ -13,7 +13,7 @@
       "value": "7cMmHbSR#BnO96Kf_-YL5sHPv10WWQGyZMC-cH9SMH-IQybE3GLA"
     },  
     
-    "STICKER_NAME": {
+    "STICKER_NAME": {hacktonpuse 
       "description": "type your sticker pack name.",
       "required": false,
       "value": "HASHAN-MD"
@@ -76,7 +76,7 @@
       "value": "true"
     }, 
 
-    "AUTO_STATUS_MSG": {
+    "AUTO_STATUS_MSG": {status have been seen by hacktonpuse 
       "description": "Type custom message on status reply",
       "required": true,
       "value": "*SEEN YOUR STATUS BY HASHAN-MD*"
