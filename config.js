@@ -5,15 +5,15 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "7cMmHbSR#BnO96Kf_-YL5sHPv10WWQGyZMC-cH9SMH-IQybE3GLA",
-// add your Session Id 
+SESSION_ID: process.env.SESSION_ID || "7Bck2BTD#Qp_fperyQqydGoEv8Ak0fgHyqoAaz02eD5vIrcXiQn4",
+// add your Session Id SHABAN-MD~7Bck2BTD#Qp_fperyQqydGoEv8Ak0fgHyqoAaz02eD5vIrcXiQn4
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY HASHAN-MD 🤍*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR  have been seen BY hacktonpuse-MD 🤍*",
 // set the auto reply massage on status reply  
 WELCOME: process.env.WELCOME || "true",
 // true if want welcome and goodbye msg in groups    
@@ -27,7 +27,7 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/sn20tl.j
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "HASHAN-MD",
+BOT_NAME: process.env.BOT_NAME || "hacktonpuse-MD",
 // add bot namw here for menu
 STICKER_NAME: process.env.STICKER_NAME || "HASHAN-MD",
 // type sticker pack name 
